@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Connect4
+comment0.text=\r\n\ \r\n\r\n\ @author\ \ (Kashan)\r\n\ @version\ (24/03/2025)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=board\ player
+comment2.target=boolean\ checkWin(int[][],\ int)
+comment3.params=board
+comment3.target=void\ printBoard(int[][])
+numComments=4

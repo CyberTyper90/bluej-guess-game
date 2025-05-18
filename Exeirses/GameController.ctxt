@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameController
+comment1.params=model\ view
+comment1.target=GameController(GameModel,\ GameView)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ handleGuess()
+comment5.params=
+comment5.target=void\ restartGame()
+numComments=6

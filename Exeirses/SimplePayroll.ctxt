@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SimplePayroll
+comment1.params=name\ hourlyRate
+comment1.target=Employee(java.lang.String,\ double)
+comment2.params=hours
+comment2.target=void\ addHours(double)
+comment3.params=
+comment3.target=double\ calculatePay()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ loadEmployees()
+comment6.params=
+comment6.target=void\ saveEmployees()
+numComments=7
